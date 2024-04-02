@@ -1,0 +1,12 @@
+/*外链字体引入*/
+@font-face {
+    font-family: 'webfont';
+    font-display: swap;
+    src: url('HuaGuangKaiTi.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'codefont';
+    font-display: swap;
+    src: url('JetBrainsMono.ttf') format('truetype');
+}

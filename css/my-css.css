@@ -1,0 +1,24 @@
+/*左上角三个小标签颜色变化*/
+a.categoryButton.blue {
+    background: linear-gradient(to right, #90c4e0, #f5f5a7);
+    background-size: 200%;
+}
+a.categoryButton.red {
+    background: linear-gradient(to right, #f3c66c, #f5caca);
+    background-size: 200%;
+}
+a.categoryButton.green {
+    background: linear-gradient(to right, #7feecc, #bbedfc);
+    background-size: 200%;
+}
+
+/*个人页颜色变化*/
+:root {
+    --anzhiyu-main-op-deep: rgb(189 191 205 / 87%) !important;
+}
+
+/*右侧滑动条颜色调整*/
+body {
+    background: #dde2f3;
+        background-color: rgb(221, 226, 243);
+}
