@@ -14,11 +14,15 @@ a.categoryButton.green {
 
 /*个人页颜色变化*/
 :root {
-    --anzhiyu-main-op-deep: rgb(189 191 205 / 87%) !important;
+    --anzhiyu-main-op-deep: #bdc4eb !important;
 }
 
 /*右侧滑动条颜色调整*/
 body {
     background: #dde2f3;
         background-color: rgb(221, 226, 243);
+}
+
+#web_bg {
+    background: linear-gradient(180deg,#fff1eb,#ace0f9);
 }
